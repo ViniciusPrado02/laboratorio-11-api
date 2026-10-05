@@ -180,3 +180,4 @@ Os três arquivos de teste prontos cobrem (1), (3) parcialmente, (4) para os err
 framework e (5). Fechar os cinco TODOs cobre o resto — de (4) falta apenas o erro de
 domínio, que é o TODO do passo 3. Entrega em PR revisado por outro membro, CI local verde, até
 **domingo 25/10, 23h59**.
+"# laboratorio-11-api" 
